@@ -1,4 +1,4 @@
-# jogo
+# Jogo que fiz para jogar no CMD quando estiver entendiada 
 jogo em python
 
 _________________ by:https://github.com/gessicatb ___________________
