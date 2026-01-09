@@ -23,9 +23,9 @@ while True:
     tentativas += 1
     
     if tentativa < numero_secreto:
-        print("⬆️ Mais alto!")
+        print("Mais alto!")
     elif tentativa > numero_secreto:
-        print("⬇️ Mais baixo!")
+        print("Mais baixo!")
     else:
         print(f" Acertou em {tentativas} tentativas!")
         break
