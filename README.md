@@ -1,5 +1,5 @@
-# Jogo que fiz para jogar no CMD quando estiver entendiada 
-jogo em python
+# Jogo pra rodar no CMD
+Jogo em Python que fiz para jogar no CMD quando estiver entendiada 
 
 _________________ by:https://github.com/gessicatb ___________________
 
