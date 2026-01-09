@@ -1,7 +1,7 @@
 # Jogo pra rodar no CMD
 Joguinho em Python que fiz para jogar no CMD quando estiver entendiada 
 
-_________________ by:https://github.com/gessicatb ___________________
+______________________ by:https://github.com/gessicatb ______________________
 
 Como jogar:
 
@@ -32,4 +32,4 @@ while True:
 
 6. Aperte a tecla ENTER duas vezes e comece a joga pelo terminal :)
 
-________________ by:https://github.com/gessicatb ___________________
+______________________ by:https://github.com/gessicatb ______________________
